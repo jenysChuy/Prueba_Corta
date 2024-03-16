@@ -1,0 +1,3 @@
+C:/Users/Janeth/CLionProjects/viedo/cmake-build-debug/CMakeFiles/viedo.dir
+C:/Users/Janeth/CLionProjects/viedo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Janeth/CLionProjects/viedo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
